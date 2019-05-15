@@ -2,7 +2,7 @@ package Week2.SoftwareFundamentals;
 
 /**
  * A simple file to model Card class.
- *
+ * Web commit test
  * @author Ali Hassan, May 15 2019
  */
 public class Card {
